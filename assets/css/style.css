@@ -1,0 +1,71 @@
+/* CORES 
+#034811; Verde
+#428bca; Azul
+#3072AB; Azul
+#326AAD; Azul
+
+
+*/
+
+#menutopo {
+	
+}
+	
+	#menutopo .navbar-brand {
+		color: #FFF;
+	}
+	
+		#menutopo .navbar-brand:hover {
+		}
+
+	#menutopo nav{
+		border-radius: 0px;
+		margin: 0px;
+		background-color: #428bca;
+		/*background-color: #30426A;*/
+		border-bottom: 1px solid #FFF;
+	}
+
+	
+#menulateral {
+
+}	
+
+	#menulateral .side-nav  {
+		height: 100%;
+	}
+	
+	#menulateral .side-nav a{
+	
+	}
+	
+		#menulateral .side-nav a{
+			transition:.1s;
+		}
+
+	#menulateral .side-nav #demo a{
+		color: #FFF;;
+	}
+
+		#menulateral  .side-nav #demo a:hover{
+			color: #428bca;
+			transition:.1s;
+		}
+		
+
+#alerta-erro {
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+}
+
+#alerta-ok {
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+}
+
+
+
+
+#login {
+    color: #428bca;
+}

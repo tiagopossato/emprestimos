@@ -1,0 +1,1 @@
+para conectar no hostinger, alterar o arquivo 'hostinger conexao.php' para 'conexao.php' e alterar 'conexao.php' para 'local conexao.php'
